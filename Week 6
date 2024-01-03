@@ -1,0 +1,124 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png\" width=\"300\" alt=\"cognitiveclass.ai logo\"  />\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### Add your code below following the instructions given in the course\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "**Ayanna** \n",
+    "\n",
+    "Current Occupation: Safety Engineer"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "*I am interested in data science because I love the idea of observing pattern trends and using tools to help tell a story about the findings. I also love how communicating the findings from the data can help find effective solutions.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### The following code is going to execute a math problem."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "16"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(2 * 4) + 8"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**********\n",
+    "\n",
+    "List of my favorite anime:\n",
+    "* My Hero Academia\n",
+    "* Love Live\n",
+    "* Attack on Titan\n",
+    "* Pokemon\n",
+    "* Gundam\n",
+    "\n",
+    "**********\n",
+    "\n",
+    "List of games that I like:\n",
+    "1. Genshin Impact\n",
+    "1. Pokemon\n",
+    "1. Mario Kart\n",
+    "1. Minecraft\n",
+    "1. Overwatch\n",
+    "\n",
+    "**********\n",
+    "\n",
+    "> \"Imagination is the essence of discovery.\"\n",
+    "\n",
+    ">                                      - Winston (Overwatch)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
